@@ -109,6 +109,7 @@ Payment Method Usage
 Top Products
 Top Customers
 
+![Metabase Dashboard](Screenshots/Metabase_dashboard.png) 
 Dashboard link is in the 'Metabase Analytics and Visualization.ipynb' in the notebook folder.
 Also screenshots are available in the Screenshots/ folder.
 
@@ -139,3 +140,4 @@ online-store-data-engineering/
 - Expand the dataset for more robust analysis
 - Add inventory forecasting
 - Implement customer segmentation
+`
