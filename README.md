@@ -1,3 +1,9 @@
+<img width="932" height="440" alt="Screenshot 2026-09-16 001137" src="https://github.com/user-attachments/assets/b396963f-d857-4758-8ce5-07bb0dd52b2d" />
+
+<img width="831" height="347" alt="Screenshot 2026-09-16 001204" src="https://github.com/user-attachments/assets/def337f5-8997-47b4-a658-b95b775024a7" />
+
+<img width="842" height="354" alt="Screenshot 2026-09-16 001223" src="https://github.com/user-attachments/assets/97b6d895-cd20-4392-b341-73b7eb5a8f80" />
+
 # Online Store Database & Analytics Project
 
 ## Overview
